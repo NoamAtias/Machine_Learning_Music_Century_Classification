@@ -1,7 +1,7 @@
 # Homework 1: Music Century Prediction
 
 This Homework focuses on building models to predict the century in which a piece of music was released. We will be using the "YearPredictionMSD" dataset from the Million Song Dataset.
-### This Homework was made with Chanel Michaeli.
+### This Homework was done together with Chanel Michaeli.
 
 ## Table of Contents
 
